@@ -5,3 +5,5 @@
 
 I used this LaTeX template for my doctoral dissertation. It is based on the template by [Jordan Suchow] (https://github.com/suchow/Dissertate) and according to the license found in repository it is released under AGPL.
 This is not an official template, but it was modified to be used at the University of Helsinki.
+
+The template is refurbished to work with a LaTex editor, like Tex Studio.
